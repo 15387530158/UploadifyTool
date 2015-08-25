@@ -1,0 +1,7 @@
+create
+git clone ssh://xxxx.com/xx/repo.git 
+git init
+
+
+lacal changes
+git status //显示当前版本库的状态，工作区有修改的会有提示，让其提交过来
