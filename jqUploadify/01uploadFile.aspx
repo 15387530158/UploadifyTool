@@ -103,11 +103,11 @@
         </tr>
         <tr>
             <td height="50" align="center" valign="middle">
-                <img alt="" src="images/BeginUpload.gif" width="77" height="23" onclick="doUplaod()" style="cursor: hand" />
+                <img alt="" src="images/BeginUpload.gif" width="77" height="23" onclick="doUplaod()" style="cursor: crosshair" />
 
             </td>
             <td>
-                <img alt="" src="images/CancelUpload.gif" width="77" height="23" onclick="closeLoad()" style="cursor: hand" /></td>
+                <img alt="" src="images/CancelUpload.gif" width="77" height="23" onclick="closeLoad()" style="cursor:crosshair" /></td>
         </tr>
         <tr>
             <td>附件:</td>
