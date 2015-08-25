@@ -114,6 +114,5 @@
             <td><a id="attachmentFile" href="javascript:downloadFile();">ccproxy.rar</a></td>
         </tr>
     </table>
-    <%--<img id="imgTest" src="uploads/Desert.jpg" />--%>
 </body>
 </html>
