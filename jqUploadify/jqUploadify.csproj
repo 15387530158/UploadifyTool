@@ -65,6 +65,7 @@
     <Reference Include="System.Web.Mobile" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="gitCheatSheet.txt" />
     <Content Include="images\BeginUpload.gif" />
     <Content Include="images\CancelUpload.gif" />
     <Content Include="images\SelectUpload.gif" />
