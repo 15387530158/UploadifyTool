@@ -11,6 +11,8 @@
     <form id="form1" runat="server">
     <div>
     这是设么东西
+        git add . 然后提交只会存一个版本快照
+        git add -A 提交会存很多快照
     </div>
     </form>
 </body>
