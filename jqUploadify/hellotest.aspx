@@ -11,6 +11,7 @@
     <form id="form1" runat="server">
     <div>
     你好，朋友~
+        哎，也没什么嘛好说的呢。
     </div>
     </form>
 </body>
