@@ -74,6 +74,7 @@
         function downloadFile() {
             alert($("#attachmentFile").text());
             window.location = "02downloadFile.aspx?filename=" + $("#attachmentFile").text();
+            var i = 0;
 
         }
     </script>
